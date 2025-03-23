@@ -5,7 +5,7 @@
 This project analyzes trends and patterns in the movie industry using the **MFlix Movies dataset** with **MongoDB Atlas**. The study provides insights into **movie releases, IMDb ratings, directors' influence, global distribution, and audience engagement**. **MongoDB Atlas Charts** is utilized to visualize and interpret key movie attributes.
 
 ## 📄 Project Report
-Detailed analysis and findings are documented in the project report. You can access the full report by downloading the file "Mongodb Project Report" that is present in this repository.
+Detailed process steps, analysis and findings are documented in the project report. You can access the full report by downloading the file "Mongodb Project Report" that is present in this repository.
 
 🔗 Dashboard Link: https://charts.mongodb.com/charts-project-0-jllkozs/public/dashboards/893302aa-d1c3-41b6-861a-2294ce5fcbac
 
